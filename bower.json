@@ -1,0 +1,8 @@
+{
+  "name": "temp",
+  "version": "0.0.0",
+  "dependencies": {
+    "threejs": "",
+    "OrbitControls": "https://raw2.github.com/mrdoob/three.js/master/examples/js/controls/OrbitControls.js"
+  }
+}
